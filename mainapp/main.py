@@ -72,7 +72,7 @@ def thongbao():
     err = ''
     if session['type'] != 2:
         return render_template('dashboard/index.html', type=session['type'])
-    list_classid, teacher = utils.classnotify(current_user.id)
+    list_classid,teacher = utils.classnotify(current_user.id)
 
     if request.method == "POST":
         name = request.form.get('name')
@@ -444,7 +444,7 @@ def dataSubjectAndScore():
 @login_required
 def dataSemesterGradeSubject():
     if request.method == "GET":
-        data = load_data_chart_class()
+        data = load_data_chart_class(session['idclass']) # thêm vào session['idclass']
         return jsonify(data)
     elif request.method == "POST":
         rqdata = json.loads(request.data)
@@ -474,9 +474,9 @@ def sendmail():
     mes = request.form['msg']
     sever = smtplib.SMTP("smtp.gmail.com", 587)
     sever.starttls()
-    sever.login("sdkansdkan1234@gmail.com", "mkmkmk12")
+    sever.login("tranthanhquang2704@gmail.com", "ihjqezoqpnqxvlql")
     for item in rs:
-        sever.sendmail("sdkansdkan1234@gmail.com", item.email, mes)
+        sever.sendmail("tranthanhquang2704@gmail.com", item.email, mes)
     return redirect('Admin/sendmail/')
 
 

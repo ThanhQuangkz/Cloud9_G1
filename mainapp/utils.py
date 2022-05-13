@@ -331,8 +331,8 @@ def util_supdate_pass_student_forgot(email):
     mes = pw
     sever = smtplib.SMTP("smtp.gmail.com", 587)
     sever.starttls()
-    sever.login("sdkansdkan1234@gmail.com", "mkmkmk12")
-    sever.sendmail("sdkansdkan1234@gmail.com", email, mes)
+    sever.login("tranthanhquang2704@gmail.com", "ihjqezoqpnqxvlql")
+    sever.sendmail("tranthanhquang2704@gmail.com", email, mes)
     db.session.add(temppass)
     db.session.commit()
 

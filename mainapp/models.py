@@ -39,7 +39,7 @@ class Teacher(Account, UserMixin):
     __tablename__ = 'Teacher'
     # __table_args__ = {'extend_existing': True}
     subjectid = Column(Integer, ForeignKey("subject.id"))
-
+    classid = Column(Integer,ForeignKey("Class.id")) # thêm hàng này
     def __init__(self, firstname, password, email, active, role):
         self.firstname = firstname
         self.password = password
