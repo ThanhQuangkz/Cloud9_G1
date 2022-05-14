@@ -44,7 +44,7 @@
 
 ![image](https://user-images.githubusercontent.com/93425051/168407738-8173d32c-f6ac-4fe2-b58b-60994a28b263.png)
 
-         Sau khi xem sau bạn nhấn vào:***Create enviroment***
+         Sau khi xem sau bạn nhấn vào:Create enviroment
  
 -   **Giao diện của cloud9 IDE**
 
