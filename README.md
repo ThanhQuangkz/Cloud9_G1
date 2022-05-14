@@ -36,7 +36,9 @@
          ở bước này thì bạn chọn cách tạo IDE , cấu hình máy instance thích hợp
     
 ![image](https://user-images.githubusercontent.com/93425051/168407692-9d81afd9-959b-4653-b817-522d0754b262.png)
+
          Chọn nền tản platform để chạy và một số thứ khác
+         
 -  **Xem lại cấu hình**
 
 ![image](https://user-images.githubusercontent.com/93425051/168407738-8173d32c-f6ac-4fe2-b58b-60994a28b263.png)
