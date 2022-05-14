@@ -31,6 +31,7 @@
 ![image](https://user-images.githubusercontent.com/93425051/168407675-efda999b-39ad-4e18-be29-779c8f0628f1.png)
 
 -   **Cài đặt cấu hình**
+
 ![image](https://user-images.githubusercontent.com/93425051/168407682-e1f613a7-9a72-4bfa-84c4-e997e7b24ee3.png)
 
          ở bước này thì bạn chọn cách tạo IDE , cấu hình máy instance thích hợp
