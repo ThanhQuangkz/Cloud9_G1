@@ -58,5 +58,5 @@
 -   B5: Cài đặt thư viện ở file reqiurement.txt 
 -   Lưu ý: Cài đặt Database bằng folder backupsql
 
-###  Bạn có thể tham khảo thêm thông tin ở nguồn này.
+####  *Bạn có thể tham khảo thêm thông tin của AWS Cloud9 ở nguồn này.
  https://docs.aws.amazon.com/console/cloud9/
