@@ -13,11 +13,11 @@ or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
 
----------------------------------------------------------------------
+-----------------------------------------------------------------
 Để chạy code trên Cloud9
-B0: Cài đặt python 3.8 
-B1: tải code lên
-B2: Thiết lập port và địa chỉ Ip ở EC2
-B3: Thay đổi đường dẫn database ( __init__.py dòng 18)
-B4: Cài đặt thư viện ở file reqiurement.txt 
+B1: Cài đặt python 3.8 
+B2: tải code lên
+B3: Thiết lập port và địa chỉ Ip ở EC2
+B4: Thay đổi đường dẫn database ( __init__.py dòng 18)
+B5: Cài đặt thư viện ở file reqiurement.txt 
 Lưu ý: Cài đặt Database bằng folder backupsql
