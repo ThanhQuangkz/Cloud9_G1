@@ -474,9 +474,9 @@ def sendmail():
     mes = request.form['msg']
     sever = smtplib.SMTP("smtp.gmail.com", 587)
     sever.starttls()
-    sever.login("tranthanhquang2704@gmail.com", "ihjqezoqpnqxvlql")
+    sever.login("khoatran616123@gmail.com", "lkrtwiwymgwlqpps")
     for item in rs:
-        sever.sendmail("tranthanhquang2704@gmail.com", item.email, mes)
+        sever.sendmail("khoatran616123@gmail.com", item.email, mes)
     return redirect('Admin/sendmail/')
 
 

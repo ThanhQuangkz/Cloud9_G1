@@ -8,8 +8,8 @@ def index():
     mes="hello"
     sever = smtplib.SMTP("smtp.gmail.com",587)
     sever.starttls()
-    sever.login("tranthanhquang2704@gmail.com","ihjqezoqpnqxvlql")
-    sever.sendmail("tranthanhquang2704@gmail.com","tranthanhquang2704@gmail.com",mes)
+    sever.login("khoatran616123@gmail.com","lkrtwiwymgwlqpps")
+    sever.sendmail("khoatran616123@gmail.com","khoatran616123@gmail.com",mes)
     return "Sent"
 
 if __name__=="__main__":
