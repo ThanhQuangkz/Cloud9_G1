@@ -13,7 +13,7 @@ or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
 
-
+---------------------------------------------------------------------
 Để chạy code trên Cloud9
 B0: Cài đặt python 3.8 
 B1: tải code lên
