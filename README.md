@@ -51,11 +51,12 @@
 ![image](https://user-images.githubusercontent.com/93425051/168407783-f82c3fd7-f342-444e-b4b8-9b84a8643813.png)
 
 ### Để chạy code trên Cloud9
--   B1: Cài đặt python 3.8 
--   B2: tải code lên
+-   B1: Cài đặt python 3.8  
+-   B2: tải code từ github
 -   B3: Thiết lập port và địa chỉ Ip ở EC2
 -   B4: Thay đổi đường dẫn database ( __init__.py dòng 18)
 -   B5: Cài đặt thư viện ở file reqiurement.txt 
+    pip install -r reqiurement.txt
 -   Lưu ý: Cài đặt Database bằng folder backupsql
 
 ####  *Bạn có thể tham khảo thêm thông tin của AWS Cloud9 ở nguồn này.
