@@ -56,7 +56,6 @@
 -   B3: Thiết lập port và địa chỉ Ip ở EC2
 -   B4: Thay đổi đường dẫn database ( __init__.py dòng 18)
 -   B5: Cài đặt thư viện ở file reqiurement.txt 
-    pip install -r reqiurement.txt
 -   Lưu ý: Cài đặt Database bằng folder backupsql
 
 ####  *Bạn có thể tham khảo thêm thông tin của AWS Cloud9 ở nguồn này.
