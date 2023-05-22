@@ -6,10 +6,6 @@
  ----------------------------------------------------------------- 
 
 ## Đề tài: Tìm hiểu Amazon Cloud9 và viết ứng dụng minh họa
-
-    Trần Thành Quang - 19133047
-    Bùi Quốc Kiệt    - 19133030
-    Phạm Thanh Bách  - 19133007
 ## Các dịch vụ sử dụng trong AWS
 
 -   AWS RDS
